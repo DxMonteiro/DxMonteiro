@@ -1,5 +1,6 @@
 # Hey there! <img src="https://github.com/DxMonteiro/DxMonteiro/blob/main/wave.gif" width="50px">
 
+My name is Diogo Monteiro and I'm a Msc Student of Software Engineering @ University of Minho. I'm from Portugal 🇵🇹, living in Braga and currently working on improving my skills in my fields of specialty: Intelligent Systems 🤖 and Application Engineering 🔧.
 <!--
 **DxMonteiro/DxMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
