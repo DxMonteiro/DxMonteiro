@@ -1,6 +1,15 @@
 # Hey there! <img src="https://github.com/DxMonteiro/DxMonteiro/blob/main/wave.gif" width="50px">
 
 My name is Diogo Monteiro and I'm a Msc Student of Software Engineering @ University of Minho. I'm from Portugal 🇵🇹, living in Braga and currently working on improving my skills in my fields of specialty: Intelligent Systems 🤖 and Application Engineering 🔧.
+
+## &#x1f4c8; My Stats
+<a href="https://github.com/DxMonteiro/DxMonteiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxMonteiro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/DxMonteiro/DxMonteiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DxMonteiro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+</a>
+
 <!--
 **DxMonteiro/DxMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
