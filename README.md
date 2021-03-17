@@ -13,7 +13,7 @@ My name is Diogo Monteiro and I'm a Msc Student of Software Engineering @ Univer
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; My Stats
 <a href="https://github.com/DxMonteiro/DxMonteiro">
