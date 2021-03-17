@@ -1,4 +1,4 @@
-# Hello, friend! <img src="https://github.com/DxMonteiro/DxMonteiro/blob/main/wave.gif" width="60px">
+# Hey there! <img src="https://github.com/DxMonteiro/DxMonteiro/blob/main/wave.gif" width="60px">
 
 <!--
 **DxMonteiro/DxMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
